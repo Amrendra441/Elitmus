@@ -1,4 +1,4 @@
-# Elitmus
+# Puzzle Game
 
 The Website should contain the following list of features
 Anyone with an email address can create an Id and password to participate in the game
